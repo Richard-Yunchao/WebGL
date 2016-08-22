@@ -1,6 +1,7 @@
 compressed-tex-image.html
 copy-texture-image.html
 copy-texture-image-webgl-specific.html
+copy-to-luminance-3d-texture.html
 gl-get-tex-parameter.html
 --min-version 2.0.1 integer-cubemap-texture-sampling.html
 mipmap-fbo.html
